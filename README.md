@@ -1,5 +1,9 @@
 # XexTool
+This is the last version of Xorloser's XexTool, released in 2013.
+Since I only see version 6.3 online, and I have that version, I'm uploading it here.
+
 This is a tool to extract information on an xex file. It will print out xex information to the console, alter xex attributes, extract executable code and other basefiles and create idc scripts files to help with disassembling the extracted executable code.
+
 
 
 :: Install
@@ -12,6 +16,7 @@ the command line) or just copy it into your windows directory.
 If you use the "Create IDC" feature of xex tool then you need to copy
 x360_imports.idc into your "IDA\idc" directory so that it will be found
 by any IDC script that you run.
+
 
 :: History
 
