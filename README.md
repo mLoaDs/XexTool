@@ -1,4 +1,4 @@
-# XexTool
+# XexTool v6.6
 This is the last version of Xorloser's XexTool, released in 2013.
 Since I only see version 6.3 online, and I have that version, I'm uploading it here.
 
